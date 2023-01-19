@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**erniesmith82/erniesmith82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<img src="https://www.canva.com/design/DAFYEx1TwQY/p0bSScCtQk9s56E-70sJcw/watch?utm_content=DAFYEx1TwQY&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish">
 
 Here are some ideas to get you started:
 
