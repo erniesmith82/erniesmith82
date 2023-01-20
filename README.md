@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="40px"/>[https://www.linkedin.com/in/ernesto-smith-jr-10885899/]
+<a herf="https://www.linkedin.com/in/ernesto-smith-jr-10885899/"><img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="40px"/></a>
 
 
 Here are some ideas to get you started:
