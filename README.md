@@ -22,5 +22,11 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erniesmith82&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![erniesmith82 GitHub stats](https://github-readme-stats.vercel.app/api?username=erniesmith82&theme=algolia)](https://github.com/erniesmith82/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erniesmith82&theme=algolia)](https://github.com/erniesmith82/github-readme-stats) [![erniesmith82 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erniesmith82&theme=algolia)](https://github.com/erniesmith82/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erniesmith82&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![erniesmith82 GitHub stats](https://github-readme-stats.vercel.app/api?username=erniesmith82&theme=algolia)](https://github.com/erniesmith82/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erniesmith82&theme=algolia)](https://github.com/erniesmith82/github-readme-stats) 
+
+## Activity Graph 📊 :
+
+<br>
+
+[![erniesmith82's github activity graph](https://activity-graph.herokuapp.com/graph?username=erniesmith82&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/erniesmith82/github-readme-activity-graph)
 
