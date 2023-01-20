@@ -3,6 +3,10 @@
 
 <br>
 
+## Connect with me ☕ :
+
+<br>
+
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "Ernesto Smith Jr")](https://www.linkedin.com/in/ernesto-smith-jr-10885899/)[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ernesto.smithjr@outlook.com" )](mailto:ernesto.smithjr@outlook.com?subject=Email%20Subject&body=Email%20Body)
 
 
