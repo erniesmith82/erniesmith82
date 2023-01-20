@@ -3,7 +3,7 @@
 
 <br>
 
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/ernesto-smith-jr-10885899/)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/ernesto-smith-jr-10885899/)
 
 
 Here are some ideas to get you started:
