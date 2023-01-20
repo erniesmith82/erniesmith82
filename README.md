@@ -3,7 +3,7 @@
 
 <br>
 
-<a herf="https://www.linkedin.com/in/ernesto-smith-jr-10885899/"><img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="64px"/></a>
+(https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/ernesto-smith-jr-10885899/)
 
 
 Here are some ideas to get you started:
