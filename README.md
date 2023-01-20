@@ -20,6 +20,8 @@
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erniesmith82)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
