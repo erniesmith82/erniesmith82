@@ -1,5 +1,5 @@
 
-<img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg">
+<img src="https://dxc.scene7.com/is/image/dxc/Low%20code%20screen:banner_desktop">
 
 <br>
 
