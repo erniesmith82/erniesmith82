@@ -1,5 +1,6 @@
 <!-- Hero / header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ernesto%20Smith%20Jr.&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8A2BE2,100:00F0FF&text=Ernesto%20Smith%20Jr.&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF)
+
 
 <p align="center">
   <b>Full-stack tinkerer • SvelteKit + Tailwind • React • Building fast, clean, product-ready UIs</b>
