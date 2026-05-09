@@ -20,10 +20,11 @@
 
 ---
 
-### 🔥 What I’m into right now
-- Building **SvelteKit + Tailwind** apps (clean design, snappy UX)
-- Headless components, form UX, and **Stripe/Shopify** hooks
-- Data-driven catalogs & dashboards (filters, search, sort, CSV → JSON pipelines)
+### 🔥 Current Focus
+• AI-assisted SOC dashboards & incident analysis
+• Full-stack cybersecurity applications
+• Workflow automation & database-driven systems
+• Secure API development with FastAPI & SvelteKit
 
 ---
 
@@ -45,14 +46,37 @@
 ### 🚀 Featured projects
 > Replace with your repos once you decide the stars of the show.
 
-<a href="https://github.com/erniesmith82/maramed-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erniesmith82&repo=maramed-site&theme=algolia" />
+<a href="https://github.com/erniesmith82/art3mis-soc-ai">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=erniesmith82&repo=art3mis-soc-ai&theme=algolia"
+    alt="ART3MIS SOC AI repo card"
+  />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/erniesmith82/order-manager">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=erniesmith82&repo=order-manager&theme=algolia"
     alt="order-manager repo card"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/erniesmith82/maramed-site">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=erniesmith82&repo=maramed-site&theme=algolia"
+    alt="maramed-site repo card"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/erniesmith82/biosculptor-site">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=erniesmith82&repo=biosculptor-site&theme=algolia"
+    alt="biosculptor-site repo card"
   />
 </a>
 
