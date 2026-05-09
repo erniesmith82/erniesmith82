@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <b>Full-stack tinkerer • SvelteKit + Tailwind • React • Building fast, clean, product-ready UIs</b>
+  <b>Cybersecurity & AI Development Student • Full-Stack Developer • AI-assisted SOC & automation systems</b>
 </p>
 
 <p align="center">
