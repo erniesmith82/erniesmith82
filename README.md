@@ -44,29 +44,19 @@
 ---
 
 ### 🚀 Featured projects
-> Replace with your repos once you decide the stars of the show.
+## 🚀 Featured Projects
 
-<a href="https://github.com/erniesmith82/art3mis-soc-ai">
- 
-</a>
+- [ART3MIS SOC AI](https://github.com/erniesmith82/art3mis-soc-ai)  
+  AI-assisted SOC dashboard with log analysis, incident reporting, FastAPI backend, SQLite persistence, and SvelteKit frontend.
 
-&nbsp;
+- [order-manager](https://github.com/erniesmith82/order-manager)  
+  Full-stack workflow and order management platform built for real-world business operations.
 
-<a href="https://github.com/erniesmith82/order-manager">
- 
-</a>
+- [maramed-site](https://github.com/erniesmith82/maramed-site)  
+  Modern responsive medical product catalog and business website built with SvelteKit and TailwindCSS.
 
-&nbsp;
-
-<a href="https://github.com/erniesmith82/maramed-site">
-  
-</a>
-
-&nbsp;
-
-<a href="https://github.com/erniesmith82/biosculptor-site">
-  
-</a>
+- [biosculptor-site](https://github.com/erniesmith82/biosculptor-site)  
+  Professional company website focused on modern UI/UX and responsive design.
 
 ---
 
